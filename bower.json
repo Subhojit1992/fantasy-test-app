@@ -1,0 +1,13 @@
+{
+  "name": "fantasy-app",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-cookies": "~1.4.0"
+  }
+}
